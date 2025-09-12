@@ -2,16 +2,16 @@
 
 ### Table of Contents
 
-1.  [Project Overview](#project-overview)
-2.  [Data Source](#data-source)
-3.  [Key Metrics (KPIs)](#key-metrics-kpis)
-4.  [Dashboard Visualizations](#dashboard-visualizations)
-5.  [Dashboard Highlights](#dashboard-highlights)
-6.  [Technical Details](#technical-details)
-7.  [Future Enhancements](#future-enhancements)
-8.  [Repository Contents](#repository-contents)
-9.  [How to Use](#how-to-use)
-10. [Author](#author)
+1.  Project Overview
+2.  Data Source
+3.  Key Metrics (KPIs)
+4.  Dashboard Visualizations
+5.  Dashboard Highlights
+6.  Technical Details
+7.  Future Enhancements
+8.  Repository Contents
+9.  How to Use
+10. Author
 
 ---
 
