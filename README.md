@@ -79,15 +79,6 @@ The Power BI file `blinkit_analysis.pbix` leverages the following technical comp
 * **Data Modeling:** The data is structured with a star schema to optimize performance and relationships between tables.
 * **DAX Measures:** Several DAX (Data Analysis Expressions) measures were created to calculate key metrics such as Total Sales and Average Sales.
 
-### Future Enhancements 💡
-
-This project can be further enhanced with the following features:
-
-* **Advanced Analytics:** Implement time-series forecasting to predict future sales trends.
-* **What-If Analysis:** Add parameters to the dashboard to allow users to perform what-if analysis on key variables like pricing or promotions.
-* **Customer Segmentation:** Analyze customer behavior to create different customer segments for targeted marketing strategies.
-* **Sentiment Analysis:** Use text analytics on customer review data to gain deeper insights into customer satisfaction.
-
 ### Repository Contents 📦
 
 This repository includes the following key files and folders:
