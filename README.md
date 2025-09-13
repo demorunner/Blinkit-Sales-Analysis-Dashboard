@@ -34,42 +34,42 @@ The following Key Performance Indicators (KPIs) were used to measure performance
 3.  **Number of Items:** The total count of different items sold.
 4.  **Average Rating:** The average customer rating for items sold.
 
-![Blinkit Sales Analysis Dashboard](screenshots/blinkit_analysis_dashboard.png)
+![Blinkit Sales Analysis Dashboard](KPI_Metrics.png)
 
 ### Dashboard Visualizations 🎨
 
 The dashboard is composed of several interactive charts and visualizations, each designed to answer specific business questions. Below is a breakdown of the charts and their objectives. You should add a screenshot for each chart to visually represent the analysis.
 
 * **Total Sales by Fat Content:** A Donut Chart is used to analyze the impact of fat content on total sales.
-    **Screenshot:** Add a screenshot of the Donut Chart here.
+    ![Blinkit Sales Analysis Dashboard](Fat_Content.png)
 
 * **Total Sales by Item Type:** A Bar Chart is used to identify the performance of different item types in terms of total sales.
-    **Screenshot:** Add a screenshot of the Bar Chart here.
+    ![Blinkit Sales Analysis Dashboard](Item_Type.png)
 
 * **Fat Content by Outlet for Total Sales:** A Stacked Column Chart is used to compare total sales across different outlets, segmented by fat content.
-    **Screenshot:** Add a screenshot of the Stacked Column Chart here.
+    ![Blinkit Sales Analysis Dashboard](Fat_By_outlet.png)
 
 * **Total Sales by Outlet Establishment:** A Line Chart is used to evaluate how the age or type of outlet establishment influences total sales.
-    **Screenshot:** Add a screenshot of the Line Chart here.
+    ![Blinkit Sales Analysis Dashboard](Outlet_Establishment.png)
 
-* **Sales by Outlet Size:** A Donut/Pie Chart is used to analyze the correlation between outlet size and total sales.
-    **Screenshot:** Add a screenshot of the Donut/Pie Chart here.
+* **Sales by Outlet Size:** A Donut Chart is used to analyze the correlation between outlet size and total sales.
+    ![Blinkit Sales Analysis Dashboard](Outlet_Size.png)
 
 * **Sales by Outlet Location:** A Funnel Map is used to assess the geographic distribution of sales across different locations.
-    **Screenshot:** Add a screenshot of the Funnel Map here.
+    ![Blinkit Sales Analysis Dashboard](Outlet_Location.png)
 
 * **All Metrics by Outlet Type:** A Matrix Card provides a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
-    **Screenshot:** Add a screenshot of the Matrix Card here.
+    ![Blinkit Sales Analysis Dashboard](Outlet_Type.png)
 
 ### Dashboard Highlights ✨
 
 This section highlights the most important features and insights of the dashboard, giving a quick overview of its capabilities.
 
 * **Key Performance Indicators (KPIs):** The top section of the dashboard prominently displays the main KPIs, including Total Sales, Average Sales, Number of Items, and Average Rating, giving a quick snapshot of the overall performance.
-    **Screenshot:** Add a screenshot of the top section showing all the main KPI cards.
+    ![Blinkit Sales Analysis Dashboard](KPI_Metrics.png)
 
 * **Filter Panel:** The interactive filter panel on the left allows users to dynamically explore the data by Outlet Location Type, Outlet Size, and Item Type.
-    **Screenshot:** Add a screenshot of the filter panel on the left side of the dashboard.
+    ![Blinkit Sales Analysis Dashboard](Filter_Panel.png)
 
 ### Technical Details ⚙️
 
