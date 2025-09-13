@@ -34,6 +34,8 @@ The following Key Performance Indicators (KPIs) were used to measure performance
 3.  **Number of Items:** The total count of different items sold.
 4.  **Average Rating:** The average customer rating for items sold.
 
+![Blinkit Sales Analysis Dashboard](screenshots/blinkit_analysis_dashboard.png)
+
 ### Dashboard Visualizations 🎨
 
 The dashboard is composed of several interactive charts and visualizations, each designed to answer specific business questions. Below is a breakdown of the charts and their objectives. You should add a screenshot for each chart to visually represent the analysis.
