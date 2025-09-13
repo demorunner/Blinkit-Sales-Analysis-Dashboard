@@ -41,24 +41,31 @@ The following Key Performance Indicators (KPIs) were used to measure performance
 The dashboard is composed of several interactive charts and visualizations, each designed to answer specific business questions. Below is a breakdown of the charts and their objectives. You should add a screenshot for each chart to visually represent the analysis.
 
 * **Total Sales by Fat Content:** A Donut Chart is used to analyze the impact of fat content on total sales.
+
     ![Blinkit Sales Analysis Dashboard](screenshots/Fat_Content.png)
 
 * **Total Sales by Item Type:** A Bar Chart is used to identify the performance of different item types in terms of total sales.
+
     ![Blinkit Sales Analysis Dashboard](screenshots/Item_Type.png)
 
 * **Fat Content by Outlet for Total Sales:** A Stacked Column Chart is used to compare total sales across different outlets, segmented by fat content.
+
     ![Blinkit Sales Analysis Dashboard](screenshots/Fat_By_outlet.png)
 
 * **Total Sales by Outlet Establishment:** A Line Chart is used to evaluate how the age or type of outlet establishment influences total sales.
+
     ![Blinkit Sales Analysis Dashboard](screenshots/Outlet_Establishment.png)
 
 * **Sales by Outlet Size:** A Donut Chart is used to analyze the correlation between outlet size and total sales.
+
     ![Blinkit Sales Analysis Dashboard](screenshots/Outlet_Size.png)
 
 * **Sales by Outlet Location:** A Funnel Map is used to assess the geographic distribution of sales across different locations.
+
     ![Blinkit Sales Analysis Dashboard](screenshots/Outlet_Location.png)
 
 * **All Metrics by Outlet Type:** A Matrix Card provides a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
+
     ![Blinkit Sales Analysis Dashboard](screenshots/Outlet_Type.png)
 
 ### Dashboard Highlights ✨
@@ -66,9 +73,11 @@ The dashboard is composed of several interactive charts and visualizations, each
 This section highlights the most important features and insights of the dashboard, giving a quick overview of its capabilities.
 
 * **Key Performance Indicators (KPIs):** The top section of the dashboard prominently displays the main KPIs, including Total Sales, Average Sales, Number of Items, and Average Rating, giving a quick snapshot of the overall performance.
+
     ![Blinkit Sales Analysis Dashboard](screenshots/KPI_Metrics.png)
 
 * **Filter Panel:** The interactive filter panel on the left allows users to dynamically explore the data by Outlet Location Type, Outlet Size, and Item Type.
+
     ![Blinkit Sales Analysis Dashboard](screenshots/Filter_Panel.png)
 
 ### Technical Details ⚙️
