@@ -54,7 +54,7 @@ The dashboard is composed of several interactive charts and visualizations, each
 
     ![Blinkit Sales Analysis Dashboard](screenshots/Fat_By_outlet.png)
 
-* **Total Sales by Outlet Establishment:** A Line Chart is used to evaluate how the age or type of outlet establishment influences total sales.
+* **Total Sales by Outlet Establishment:** This line chart shows the relationship between the year an outlet was established and its total sales, helping to identify how outlet age affects revenue..
 
     ![Blinkit Sales Analysis Dashboard](screenshots/Outlet_Establishment.png)
 
