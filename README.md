@@ -38,7 +38,7 @@ The following Key Performance Indicators (KPIs) were used to measure performance
 
 ### Dashboard Visualizations 🎨
 
-The dashboard is composed of several interactive charts and visualizations, each designed to answer specific business questions. Below is a breakdown of the charts and their objectives. You should add a screenshot for each chart to visually represent the analysis.
+The dashboard is composed of several interactive charts and visualizations, each designed to answer specific business questions. Below is a breakdown of the charts and their objectives.
 
 * **Total Sales by Fat Content:** A Donut Chart is used to analyze the impact of fat content on total sales.
 
