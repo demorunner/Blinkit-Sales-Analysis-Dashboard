@@ -80,17 +80,6 @@ The dashboard is composed of several interactive charts and visualizations, each
 
     ![Blinkit Sales Analysis Dashboard](screenshots/Outlet_Type.png)
 
-### Dashboard Highlights ✨
-
-This section highlights the most important features and insights of the dashboard, giving a quick overview of its capabilities.
-
-* **Key Performance Indicators (KPIs):** The top section of the dashboard prominently displays the main KPIs, including Total Sales, Average Sales, Number of Items, and Average Rating, giving a quick snapshot of the overall performance.
-
-    ![Blinkit Sales Analysis Dashboard](screenshots/KPI_Metrics.png)
-
-* **Filter Panel:** The interactive filter panel on the left allows users to dynamically explore the data by Outlet Location Type, Outlet Size, and Item Type.
-
-    ![Blinkit Sales Analysis Dashboard](screenshots/Filter_Panel.png)
 
 ### Technical Details ⚙️
 
