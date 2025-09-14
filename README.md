@@ -36,6 +36,8 @@ The following Key Performance Indicators (KPIs) were used to measure performance
 
 ![Blinkit Sales Analysis Dashboard](screenshots/KPI_Metrics.png)
 
+---
+
 ### Dashboard Visualizations 🎨
 
 The dashboard is composed of several interactive charts and visualizations, each designed to answer specific business questions. Below is a breakdown of the charts and their objectives.
