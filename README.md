@@ -34,7 +34,17 @@ The following Key Performance Indicators (KPIs) were used to measure performance
 3.  **Number of Items:** The total count of different items sold.
 4.  **Average Rating:** The average customer rating for items sold.
 
-![Blinkit Sales Analysis Dashboard](screenshots/KPI_Metrics.png)
+### Dashboard Highlights ✨
+
+This section highlights the most important features and insights of the dashboard, giving a quick overview of its capabilities.
+
+* **Key Performance Indicators (KPIs):** The top section of the dashboard prominently displays the main KPIs, including Total Sales, Average Sales, Number of Items, and Average Rating, giving a quick snapshot of the overall performance.
+
+    ![Blinkit Sales Analysis Dashboard](screenshots/KPI_Metrics.png)
+
+* **Filter Panel:** The interactive filter panel on the left allows users to dynamically explore the data by Outlet Location Type, Outlet Size, and Item Type.
+
+    ![Blinkit Sales Analysis Dashboard](screenshots/Filter_Panel.png)
 
 ---
 
